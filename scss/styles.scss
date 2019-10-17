@@ -1,0 +1,11 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap');
+@import 'firstPageStyles';
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10pt;
+}
+
+@import 'mixins';
